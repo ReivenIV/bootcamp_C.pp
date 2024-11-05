@@ -1,4 +1,3 @@
-tests
 *.pdf
 *.dict
 libft.a
@@ -11,3 +10,5 @@ rush_00_1/
 shell00_5/
 shell01_group0/
 *.out
+rush_1/
+rush_2/
