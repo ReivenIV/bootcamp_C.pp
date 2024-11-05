@@ -1,0 +1,13 @@
+tests
+*.pdf
+*.dict
+libft.a
+message.txt
+rush01_1/
+rush1_master/
+rush2_MASTER/
+rush2_fede/
+rush_00_1/
+shell00_5/
+shell01_group0/
+*.out
