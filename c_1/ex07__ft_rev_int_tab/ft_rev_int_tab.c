@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: ReivenIV                                   +#+  +:+       +#+        */.
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/09/06 09:03:19 by fwebe-ir          #+#    #+#             */
-/*   Updated: 2024/09/19 13:12:59 by fwebe-ir         ###   ########.fr       */
+/*   Created: 2024/09/06 09:03:19 by ReivenIV          #+#    #+#             */
+/*   Updated: 2024/09/19 13:12:59 by ReivenIV         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,6 @@
 • The arguments are a pointer to int and the number of ints in the array.
 • Here’s how it should be prototyped :
 */
-//test
 
 void	ft_swap(int *a, int *b)
 {
