@@ -10,6 +10,16 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+Exercise 08
+ft_strlowcase
+Turn-in directory : ex08/
+Files to turn in : ft_strlowcase.c
+Allowed functions : None
+• Create a function that transforms every letter to lowercase.
+• It should return str.
+*/
+
 #include <unistd.h>
 
 char	*ft_strlowcase(char *str)

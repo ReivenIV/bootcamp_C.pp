@@ -13,6 +13,11 @@
 #include <stdlib.h>
 
 /*
+ft_range
+Turn-in directory : ex01/
+Files to turn in : ft_range.c
+Allowed functions : malloc
+
 • Create a function ft_range which returns an array ofints.
   This int array should contain all values between min and max.
 • Min included - max excluded.

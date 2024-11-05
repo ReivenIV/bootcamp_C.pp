@@ -10,6 +10,17 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+Exercise 07
+ft_strupcase
+Turn-in directory : ex07/
+Files to turn in : ft_strupcase.c
+Allowed functions : None
+
+• Create a function that transforms every letter to uppercase.
+• It should return str.
+*/
+
 #include <unistd.h>
 
 char	*ft_strupcase(char *str)

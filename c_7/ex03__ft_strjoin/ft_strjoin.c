@@ -10,6 +10,19 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+Exercise 03
+ft_strjoin
+Turn-in directory : ex03/
+Files to turn in : ft_strjoin.c
+Allowed functions : malloc
+
+• Write a function that will concatenate all the strings pointed by strs separated by
+sep.
+• size is the number of strings in strs
+• if size is 0, you must return an empty string that you can free().
+*/
+
 #include <stdlib.h>
 
 int	ft_strlen(char *str)

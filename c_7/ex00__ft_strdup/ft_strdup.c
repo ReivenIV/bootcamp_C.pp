@@ -10,6 +10,15 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*
+ft_strdup
+Turn-in directory : ex00/
+Files to turn in : ft_strdup.c
+Allowed functions : malloc
+
+• Reproduce the behavior of the function strdup (man strdup).
+*/
+
 #include <stdlib.h>
 
 int	ft_strlen(char *str)
