@@ -18,6 +18,7 @@
 • The arguments are a pointer to int and the number of ints in the array.
 • Here’s how it should be prototyped :
 */
+//test
 
 void	ft_swap(int *a, int *b)
 {
